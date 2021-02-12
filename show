@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo -n 'private: ' && cat priv && echo -n address: 0x && cat addr
