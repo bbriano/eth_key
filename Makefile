@@ -1,8 +1,8 @@
 # Generate ethereum private,public key and address
 #
 # key
-# priv -> key
-# addr -> pub -> key
+# key -> priv
+# key -> pub -> addr
 
 .PHONY: default clean
 
